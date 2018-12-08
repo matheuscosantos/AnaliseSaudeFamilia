@@ -1,0 +1,175 @@
+ Sistema de Informação de Atenção Básica - Cadastramento Familiar - São Paulo
+Nº Famílias por Município
+Período:Dez/1998
+"Município";"Nº_Famílias"
+"350130 Álvares Machado";893
+"350140 Álvaro de Carvalho";937
+"350190 Amparo";3467
+"350220 Angatuba";749
+"350240 Anhumas";620
+"350270 Apiaí";4451
+"350290 Araçoiaba da Serra";384
+"350310 Arandu";767
+"350335 Arco-Íris";283
+"350380 Artur Nogueira";40
+"350400 Assis";5064
+"350410 Atibaia";430
+"350490 Bananal";245
+"350535 Barra do Chapéu";1080
+"350540 Barra do Turvo";389
+"350560 Barrinha";442
+"350590 Batatais";596
+"350635 Bertioga";1089
+"350640 Bilac";73
+"350715 Bom Sucesso de Itararé";827
+"350780 Brodowski";858
+"350800 Buri";2984
+"350860 Cachoeira Paulista";646
+"350910 Caiuá";862
+"350925 Cajati";313
+"350940 Cajuru";476
+"350950 Campinas";1375
+"351020 Capão Bonito";7639
+"351050 Caraguatatuba";547
+"351060 Carapicuíba";156
+"351110 Catanduva";1033
+"351190 Clementina";211
+"351260 Coronel Macedo";105
+"351280 Cosmópolis";1001
+"351320 Cristais Paulista";15
+"351350 Cubatão";1019
+"351380 Diadema";2245
+"351470 Echaporã";1413
+"351480 Eldorado";553
+"351490 Elias Fausto";2396
+"351492 Elisiário";494
+"351500 Embu das Artes";4962
+"351512 Emilianópolis";517
+"351515 Engenheiro Coelho";1495
+"351518 Espírito Santo do Pinhal";124
+"351535 Euclides da Cunha Paulista";2230
+"351580 Flora Rica";446
+"351600 Flórida Paulista";647
+"351710 Glicério";355
+"351750 Guapiaçu";755
+"351760 Guapiara";3030
+"351770 Guará";407
+"351840 Guaratinguetá";365
+"351880 Guarulhos";586
+"351920 Iacri";434
+"351990 Iepê";1096
+"352030 Iguape";591
+"352042 Ilha Comprida";209
+"352040 Ilhabela";179
+"352120 Iporanga";351
+"352130 Ipuã";215
+"352170 Itaberá";3655
+"352210 Itanhaém";2360
+"352215 Itaóca";821
+"352220 Itapecerica da Serra";545
+"352240 Itapeva";14754
+"352265 Itapirapuã Paulista";872
+"352290 Itapuí";93
+"352320 Itararé";10881
+"352330 Itariri";398
+"352380 Itobi";583
+"352460 Jacupiranga";293
+"352540 Jeriquara";18
+"352600 Junqueirópolis";1272
+"352610 Juquiá";2090
+"352660 Lavrinhas";131
+"352670 Leme";3133
+"352680 Lençóis Paulista";1127
+"352725 Lourdes";1395
+"352740 Lucélia";1837
+"352780 Lupércio";865
+"352800 Macatuba";917
+"352850 Mairiporã";420
+"352870 Marabá Paulista";725
+"352900 Marília";1423
+"352920 Martinópolis";460
+"352940 Mauá";4750
+"352990 Miracatu";947
+"353020 Mirante do Paranapanema";997
+"353050 Mococa";3324
+"353070 Mogi Guaçu";1222
+"353080 Mogi Mirim";204
+"353160 Monte Castelo";843
+"353215 Nantes";436
+"353220 Narandiba";908
+"353282 Nova Campina";1309
+"353430 Orlândia";193
+"353450 Oscar Bressane";568
+"353460 Osvaldo Cruz";1756
+"353480 Ouro Verde";598
+"353490 Pacaembu";568
+"353550 Paraguaçu Paulista";1939
+"353620 Pariquera-Açu";998
+"353710 Pedreira";415
+"353720 Pedro de Toledo";437
+"353760 Peruíbe";629
+"353800 Pindamonhangaba";167
+"353830 Piquerobi";741
+"353880 Piraju";3926
+"353920 Pirapozinho";916
+"353980 Poá";768
+"354000 Pompéia";1273
+"354080 Potirendaba";527
+"354085 Pracinha";310
+"354100 Praia Grande";2179
+"354120 Presidente Bernardes";1092
+"354140 Presidente Prudente";747
+"354150 Presidente Venceslau";1962
+"354170 Quatá";63
+"354190 Queluz";167
+"354200 Quintana";833
+"354260 Registro";725
+"354270 Restinga";12
+"354280 Ribeira";668
+"354300 Ribeirão Branco";3698
+"354310 Ribeirão Corrente";13
+"354323 Ribeirão dos Índios";662
+"354325 Ribeirão Grande";1381
+"354350 Riversul";2090
+"354425 Rosana";1654
+"354450 Rubinéia";395
+"354490 Sales Oliveira";1903
+"354550 Sandovalina";594
+"354600 Santa Branca";1055
+"354660 Santa Fé do Sul";1522
+"354770 Santo Anastácio";1512
+"354780 Santo André";2711
+"354790 Santo Antônio da Alegria";497
+"354810 Santo Antônio do Jardim";818
+"354830 Santo Expedito";558
+"354840 Santópolis do Aguapeí";309
+"354870 São Bernardo do Campo";7804
+"354890 São Carlos";1867
+"354910 São João da Boa Vista";1388
+"354930 São João do Pau d'Alho";332
+"354980 São José do Rio Preto";1053
+"354990 São José dos Campos";169
+"354995 São Lourenço da Serra";2162
+"355030 São Paulo";23072
+"355070 São Sebastião";1707
+"355080 São Sebastião da Grama";526
+"355090 São Simão";413
+"355100 São Vicente";1061
+"355180 Sete Barras";890
+"355200 Silveiras";673
+"355220 Sorocaba";5
+"355290 Taciba";893
+"355380 Taquarituba";401
+"355385 Taquarivaí";886
+"355390 Tarabai";255
+"355395 Tarumã";816
+"355430 Teodoro Sampaio";353
+"355510 Tupi Paulista";1200
+"355540 Ubatuba";2147
+"355600 Urupês";606
+"355640 Vargem Grande do Sul";533
+"355645 Vargem Grande Paulista";383
+"355700 Votorantim";84
+"Total";232397
+ Fonte: Ministério da Saúde - Sistema de Informação de Atenção Básica - SIAB 
+ Consulte o site da  Secretaria Estadual de Saúde para mais informações.

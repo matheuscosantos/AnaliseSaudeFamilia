@@ -1,0 +1,425 @@
+ Sistema de Informação de Atenção Básica - Cadastramento Familiar - São Paulo
+Nº Famílias por Município
+Período:Dez/2001
+"Município";"Nº_Famílias"
+"350020 Adolfo";944
+"350030 Aguaí";1909
+"350080 Alfredo Marcondes";1265
+"350090 Altair";950
+"350100 Altinópolis";3617
+"350110 Alto Alegre";1306
+"350130 Álvares Machado";2737
+"350140 Álvaro de Carvalho";820
+"350150 Alvinlândia";779
+"350190 Amparo";11968
+"350200 Analândia";655
+"350220 Angatuba";755
+"350240 Anhumas";834
+"350250 Aparecida";1783
+"350260 Aparecida d'Oeste";1536
+"350270 Apiaí";5420
+"350280 Araçatuba";32628
+"350290 Araçoiaba da Serra";1015
+"350300 Aramina";750
+"350310 Arandu";1859
+"350315 Arapeí";766
+"350320 Araraquara";3182
+"350330 Araras";11344
+"350335 Arco-Íris";630
+"350350 Areias";931
+"350380 Artur Nogueira";4990
+"350400 Assis";8166
+"350440 Avanhandava";1762
+"350450 Avaré";877
+"350490 Bananal";1603
+"350500 Barão de Antonina";838
+"350520 Bariri";1116
+"350535 Barra do Chapéu";1294
+"350540 Barra do Turvo";582
+"350560 Barrinha";3890
+"350580 Bastos";4268
+"350590 Batatais";11736
+"350600 Bauru";4604
+"350610 Bebedouro";786
+"350620 Bento de Abreu";685
+"350630 Bernardino de Campos";2795
+"350635 Bertioga";1196
+"350640 Bilac";1876
+"350650 Birigui";9774
+"350715 Bom Sucesso de Itararé";800
+"350745 Borebi";529
+"350760 Bragança Paulista";4193
+"350770 Braúna";1240
+"350775 Brejo Alegre";704
+"350780 Brodowski";965
+"350800 Buri";3547
+"350810 Buritama";3530
+"350820 Buritizal";750
+"350850 Caçapava";369
+"350860 Cachoeira Paulista";821
+"350880 Cafelândia";432
+"350890 Caiabu";1226
+"350900 Caieiras";906
+"350910 Caiuá";1138
+"350920 Cajamar";1070
+"350925 Cajati";1281
+"350930 Cajobi";847
+"350940 Cajuru";3885
+"350945 Campina do Monte Alegre";1525
+"350950 Campinas";1
+"350970 Campos do Jordão";612
+"350980 Campos Novos Paulista";871
+"350990 Cananéia";2619
+"350995 Canas";823
+"351000 Cândido Mota";813
+"351015 Canitar";915
+"351020 Capão Bonito";9315
+"351040 Capivari";913
+"351050 Caraguatatuba";13249
+"351090 Cássia dos Coqueiros";777
+"351100 Castilho";4592
+"351110 Catanduva";6168
+"351150 Cerquilho";9221
+"351160 Cesário Lange";1466
+"355720 Chavantes";660
+"351190 Clementina";1570
+"351200 Colina";4895
+"351210 Colômbia";898
+"351220 Conchal";526
+"351230 Conchas";4556
+"351240 Cordeirópolis";1476
+"351250 Coroados";1315
+"351260 Coronel Macedo";600
+"351280 Cosmópolis";2728
+"351320 Cristais Paulista";624
+"351330 Cruzália";775
+"351340 Cruzeiro";1274
+"351350 Cubatão";15257
+"351360 Cunha";2724
+"351370 Descalvado";1758
+"351380 Diadema";23677
+"351410 Dois Córregos";1029
+"351420 Dolcinópolis";718
+"351440 Dracena";7954
+"351470 Echaporã";1589
+"351480 Eldorado";1424
+"351490 Elias Fausto";3043
+"351492 Elisiário";796
+"351495 Embaúba";740
+"351500 Embu das Artes";2774
+"351512 Emilianópolis";815
+"351515 Engenheiro Coelho";1916
+"351518 Espírito Santo do Pinhal";8728
+"351519 Espírito Santo do Turvo";1030
+"355730 Estiva Gerbi";991
+"351535 Euclides da Cunha Paulista";2476
+"351540 Fartura";871
+"351550 Fernandópolis";1340
+"351565 Fernão";430
+"351570 Ferraz de Vasconcelos";924
+"351580 Flora Rica";501
+"351600 Flórida Paulista";3174
+"351610 Florínia";778
+"351620 Franca";4139
+"351630 Francisco Morato";29187
+"351640 Franco da Rocha";1386
+"351650 Gabriel Monteiro";827
+"351660 Gália";1708
+"351670 Garça";8547
+"351685 Gavião Peixoto";1097
+"351710 Glicério";1271
+"351730 Guaimbê";1236
+"351750 Guapiaçu";1659
+"351760 Guapiara";3299
+"351770 Guará";3000
+"351780 Guaraçaí";760
+"351800 Guarani d'Oeste";669
+"351810 Guarantã";119
+"351820 Guararapes";4538
+"351840 Guaratinguetá";4659
+"351880 Guarulhos";1088
+"351885 Guatapará";1292
+"351890 Guzolândia";1158
+"351900 Herculândia";754
+"351905 Holambra";830
+"351907 Hortolândia";3569
+"351920 Iacri";1482
+"351925 Iaras";532
+"351930 Ibaté";2525
+"351940 Ibirá";947
+"351970 Ibiúna";1568
+"351980 Icém";645
+"351990 Iepê";2146
+"352010 Igarapava";488
+"352020 Igaratá";1951
+"352030 Iguape";1453
+"352042 Ilha Comprida";2347
+"352044 Ilha Solteira";2120
+"352040 Ilhabela";5471
+"352050 Indaiatuba";4041
+"352060 Indiana";1196
+"352070 Indiaporã";1304
+"352100 Iperó";703
+"352110 Ipeúna";991
+"352120 Iporanga";1038
+"352130 Ipuã";608
+"352140 Iracemápolis";2160
+"352150 Irapuã";899
+"352160 Irapuru";2256
+"352170 Itaberá";2822
+"352210 Itanhaém";12220
+"352215 Itaóca";855
+"352220 Itapecerica da Serra";7829
+"352230 Itapetininga";3689
+"352240 Itapeva";14304
+"352250 Itapevi";1499
+"352260 Itapira";8272
+"352265 Itapirapuã Paulista";937
+"352290 Itapuí";2819
+"352300 Itapura";1033
+"352310 Itaquaquecetuba";1084
+"352320 Itararé";9280
+"352330 Itariri";3207
+"352360 Itirapina";646
+"352370 Itirapuã";451
+"352380 Itobi";1691
+"352390 Itu";4557
+"352410 Ituverava";2421
+"352420 Jaborandi";1876
+"352430 Jaboticabal";589
+"352440 Jacareí";455
+"352460 Jacupiranga";1448
+"352480 Jales";3727
+"352490 Jambeiro";811
+"352500 Jandira";4771
+"352510 Jardinópolis";2376
+"352540 Jeriquara";639
+"352560 João Ramalho";1066
+"352570 José Bonifácio";859
+"352580 Júlio Mesquita";1214
+"352585 Jumirim";558
+"352600 Junqueirópolis";2175
+"352610 Juquiá";3556
+"352620 Juquitiba";2562
+"352630 Lagoinha";1101
+"352650 Lavínia";1421
+"352660 Lavrinhas";1547
+"352670 Leme";9058
+"352680 Lençóis Paulista";1630
+"352710 Lins";6290
+"352720 Lorena";1315
+"352725 Lourdes";579
+"352740 Lucélia";3341
+"352760 Luís Antônio";2052
+"352770 Luiziânia";1251
+"352780 Lupércio";1181
+"352790 Lutécia";661
+"352800 Macatuba";1506
+"352840 Mairinque";1059
+"352850 Mairiporã";3523
+"352870 Marabá Paulista";1128
+"352900 Marília";45567
+"352910 Marinópolis";661
+"352920 Martinópolis";2334
+"352940 Mauá";47317
+"352950 Mendonça";1004
+"352965 Mesópolis";574
+"352970 Miguelópolis";2525
+"352990 Miracatu";2393
+"353010 Mirandópolis";1064
+"353020 Mirante do Paranapanema";3617
+"353030 Mirassol";2262
+"353050 Mococa";5861
+"353070 Mogi Guaçu";26768
+"353080 Mogi Mirim";5234
+"353090 Mombuca";821
+"353100 Monções";618
+"353110 Mongaguá";1917
+"353120 Monte Alegre do Sul";623
+"353140 Monte Aprazível";636
+"353160 Monte Castelo";939
+"353170 Monteiro Lobato";827
+"353190 Morro Agudo";1369
+"353210 Murutinga do Sul";1244
+"353215 Nantes";653
+"353220 Narandiba";1082
+"353250 Neves Paulista";1085
+"353282 Nova Campina";1724
+"353284 Nova Canaã Paulista";760
+"353286 Nova Castilho";274
+"353310 Nova Guataporanga";609
+"353320 Nova Independência";662
+"353330 Nova Luzitânia";886
+"353350 Novo Horizonte";1846
+"353360 Nuporanga";825
+"353410 Oriente";1702
+"353430 Orlândia";3472
+"353440 Osasco";2174
+"353450 Oscar Bressane";779
+"353460 Osvaldo Cruz";1388
+"353470 Ourinhos";1762
+"353480 Ouro Verde";1033
+"353490 Pacaembu";1304
+"353530 Palmital";3122
+"353540 Panorama";2816
+"353550 Paraguaçu Paulista";5020
+"353560 Paraibuna";3610
+"353580 Paranapanema";655
+"353590 Paranapuã";1119
+"353600 Parapuã";2068
+"353620 Pariquera-Açu";3230
+"353625 Parisi";656
+"353630 Patrocínio Paulista";1030
+"353640 Paulicéia";1533
+"353680 Pedra Bela";949
+"353690 Pedranópolis";640
+"353710 Pedreira";1679
+"353715 Pedrinhas Paulista";175
+"353720 Pedro de Toledo";2714
+"353730 Penápolis";6226
+"353740 Pereira Barreto";4652
+"353750 Pereiras";2182
+"353760 Peruíbe";4642
+"353770 Piacatu";1375
+"353780 Piedade";1078
+"353790 Pilar do Sul";1295
+"353800 Pindamonhangaba";5025
+"353830 Piquerobi";867
+"353870 Piracicaba";14619
+"353880 Piraju";10525
+"353910 Pirapora do Bom Jesus";1224
+"353920 Pirapozinho";3079
+"353930 Pirassununga";4755
+"353950 Pitangueiras";955
+"353960 Planalto";1050
+"353970 Platina";825
+"353980 Poá";2334
+"354000 Pompéia";4232
+"354025 Pontalinda";1053
+"354030 Pontes Gestal";811
+"354040 Populina";1301
+"354060 Porto Feliz";3573
+"354075 Potim";3339
+"354080 Potirendaba";1637
+"354085 Pracinha";412
+"354090 Pradópolis";1040
+"354100 Praia Grande";2843
+"354120 Presidente Bernardes";3004
+"354130 Presidente Epitácio";4773
+"354140 Presidente Prudente";5993
+"354150 Presidente Venceslau";4869
+"354160 Promissão";814
+"354170 Quatá";2966
+"354190 Queluz";1446
+"354200 Quintana";1502
+"354220 Rancharia";4236
+"354230 Redenção da Serra";980
+"354240 Regente Feijó";1197
+"354260 Registro";5269
+"354270 Restinga";898
+"354280 Ribeira";866
+"354300 Ribeirão Branco";4686
+"354310 Ribeirão Corrente";695
+"354320 Ribeirão do Sul";455
+"354323 Ribeirão dos Índios";731
+"354325 Ribeirão Grande";1903
+"354330 Ribeirão Pires";13949
+"354340 Ribeirão Preto";3692
+"354360 Rifaina";596
+"354390 Rio Claro";1760
+"354420 Riolândia";2000
+"354350 Riversul";1945
+"354425 Rosana";2903
+"354440 Rubiácea";596
+"354450 Rubinéia";898
+"354480 Sales";1050
+"354490 Sales Oliveira";1850
+"354530 Salto de Pirapora";4011
+"354550 Sandovalina";896
+"354600 Santa Branca";4496
+"354620 Santa Cruz da Conceição";870
+"354630 Santa Cruz das Palmeiras";1006
+"354640 Santa Cruz do Rio Pardo";7229
+"354660 Santa Fé do Sul";4954
+"354670 Santa Gertrudes";1285
+"354680 Santa Isabel";2061
+"354710 Santa Mercedes";698
+"354740 Santa Rita d'Oeste";859
+"354760 Santa Rosa de Viterbo";370
+"354765 Santa Salete";465
+"354730 Santana de Parnaíba";1122
+"354770 Santo Anastácio";2772
+"354780 Santo André";5292
+"354790 Santo Antônio da Alegria";478
+"354805 Santo Antônio do Aracanguá";1963
+"354810 Santo Antônio do Jardim";1373
+"354820 Santo Antônio do Pinhal";1647
+"354830 Santo Expedito";765
+"354840 Santópolis do Aguapeí";1121
+"354850 Santos";36895
+"354870 São Bernardo do Campo";70301
+"354880 São Caetano do Sul";1941
+"354890 São Carlos";5017
+"354900 São Francisco";933
+"354910 São João da Boa Vista";2533
+"354925 São João de Iracema";498
+"354930 São João do Pau d'Alho";536
+"354950 São José da Bela Vista";749
+"354960 São José do Barreiro";1143
+"354970 São José do Rio Pardo";2427
+"354980 São José do Rio Preto";3604
+"354990 São José dos Campos";20414
+"354995 São Lourenço da Serra";3088
+"355000 São Luís do Paraitinga";3107
+"355010 São Manuel";416
+"355030 São Paulo";199224
+"355060 São Roque";2456
+"355070 São Sebastião";3139
+"355080 São Sebastião da Grama";1926
+"355090 São Simão";622
+"355100 São Vicente";9685
+"355130 Sebastianópolis do Sul";848
+"355140 Serra Azul";1041
+"355150 Serrana";3097
+"355180 Sete Barras";1965
+"355200 Silveiras";1188
+"355220 Sorocaba";8853
+"355230 Sud Mennucci";2172
+"355270 Tabatinga";667
+"355280 Taboão da Serra";855
+"355290 Taciba";1659
+"355310 Taiaçu";1561
+"355320 Taiúva";1200
+"355330 Tambaú";1543
+"355360 Tapiratiba";3932
+"355365 Taquaral";758
+"355370 Taquaritinga";916
+"355380 Taquarituba";2558
+"355385 Taquarivaí";1241
+"355390 Tarabai";1784
+"355395 Tarumã";1542
+"355410 Taubaté";7812
+"355430 Teodoro Sampaio";3982
+"355450 Tietê";95
+"355460 Timburi";790
+"355480 Tremembé";1006
+"355500 Tupã";3315
+"355510 Tupi Paulista";3398
+"355520 Turiúba";614
+"355530 Turmalina";776
+"355540 Ubatuba";10491
+"355550 Ubirajara";537
+"355580 Urânia";2190
+"355600 Urupês";772
+"355610 Valentim Gentil";559
+"355630 Valparaíso";4285
+"355640 Vargem Grande do Sul";50
+"355660 Vera Cruz";116
+"355680 Viradouro";3498
+"355695 Vitória Brasil";464
+"355700 Votorantim";1639
+"355710 Votuporanga";2040
+"355715 Zacarias";640
+"Total";1488810
+ Fonte: Ministério da Saúde - Sistema de Informação de Atenção Básica - SIAB 
+ Consulte o site da  Secretaria Estadual de Saúde para mais informações.
